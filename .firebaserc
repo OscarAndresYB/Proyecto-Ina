@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "inawebestadisticas",
+    "ina web estadisticas produccion": "inawebestadisticas",
+    "web estadisticas": "inawebestadisticas"
+  },
+  "targets": {},
+  "etags": {}
+}
